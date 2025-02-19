@@ -1,6 +1,6 @@
 # 🎧 AirPods Battery CLI
 
-## 📌 Overview
+## Overview
 A lightweight **command-line tool** for retrieving the battery status of **AirPods** (or other Bluetooth headphones) on macOS. This script fetches connection status and battery levels for **left, right, and case batteries** directly from macOS system data.
 
 ## Features
@@ -10,7 +10,7 @@ A lightweight **command-line tool** for retrieving the battery status of **AirPo
 - ✅ **Fully automated, no additional setup required**
 - ✅ **Can be added to macOS menu bar using SwiftBar/BitBar**
 
-## 🛠️ Installation
+## Installation
 ### **1️⃣ Download the Script**
 ```bash
 curl -O https://github.com/pratikbhavarthe/AirpodsBattery/bt_battery.sh
